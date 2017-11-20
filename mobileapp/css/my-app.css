@@ -1,0 +1,9 @@
+.navbar {
+    color: white;
+    background-color: red;
+} 
+
+.panellink li {
+    background-color: #111 !important;
+    color: white!important;
+}
